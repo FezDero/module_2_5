@@ -6,7 +6,7 @@ def get_matrix (n, m, value):
             matrix[i].append(value)
     return matrix
 result1 = get_matrix(3,3,10)
-result2 = get_matrix(3, 5, 42)
+result2 = get_matrix(3,5,42)
 result3 = get_matrix(4,4,13)
 
     # 1 вариант решения, с указанием как заявлено в задаче - весь вывод в строку
